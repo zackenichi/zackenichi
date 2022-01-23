@@ -1,0 +1,4 @@
+- name: @dailydotdev/devcard
+  uses: dailydotdev/action-devcard@2.0.5
+  with:
+    devcard_id: ${{ secrets.f46dc31825dc4cd4832ee5da90476791 }}
