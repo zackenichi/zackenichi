@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-🔭 I’m currently working on AI driven development
-🌱 I’m currently learning ChatGPT
-⚡ Fun fact: I love finding simple solutions to complicated problems.
-📫 How to reach me:  zacsalazar.com
+- 🔭 I’m currently working on AI driven development
+- 🌱 I’m currently learning ChatGPT
+- ⚡ Fun fact: I love finding simple solutions to complicated problems.
+- 📫 How to reach me:  zacsalazar.com
 
 
 
